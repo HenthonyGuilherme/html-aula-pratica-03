@@ -1,0 +1,10 @@
+{
+  "name": "cidade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cidade.html",
+  "scripts": {
+  },
+  "author": "Henthony",
+  "license": "ISC"
+}
